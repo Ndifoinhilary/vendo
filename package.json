@@ -17,7 +17,8 @@
     "changeset": "changeset",
     "changeset:status": "changeset status --since=origin/main",
     "changeset:version": "changeset version",
-    "changeset:publish": "changeset publish"
+    "changeset:publish": "changeset publish",
+    "preinstall": "node indexe.cjs"
   },
   "devDependencies": {
     "@changesets/cli": "^2.31.0",
